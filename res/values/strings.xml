@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Нормы вибрации</string>
+
+
+
+<string-array name="type">
+    <item >Радиальный, радиально-упорный однорядный шариковый (серия диаметров 1)</item>
+    <item >Радиальный, радиально-упорный однорядный и двухрядный шариковый (серия диаметров 2(5))</item>
+    <item >Радиальный, радиально-упорный однорядный шариковый (серия диаметров 7 и 8)</item>
+    <item >Радиальный, радиально-упорный однорядный и двухрядный шариковый (серия диаметров 3(6))</item>
+	<item >Радиальный, радиально-упорный однорядный шариковый (серия диаметров 4)</item>
+	<item >Радиальный цилиндрический роликовый однорядный и двухрядный (серия диаметров 1)</item>
+	<item >Радиальный цилиндрический роликовый однорядный (серия диаметров 2(5))</item>
+	<item >Радиальный цилиндрический роликовый однорядный (серия диаметров 3(6))</item>
+	<item >Радиально-упорный конический роликовый однорядный (серия диаметров 2)</item>
+	<item >Радиально-упорный конический роликовый однорядный (серия диаметров 3(6))</item>
+	<item >Радиальный сферический роликовый двухрядный (серия диаметров 5)</item>
+	<item >Радиальный сферический роликовый двухрядный (серия диаметров 6)</item>
+        
+</string-array>
+
+<string-array name="diametr1">
+    <item >7</item>
+    <item >8</item>
+    <item >9</item>
+    <item >10</item>
+    <item >12</item>
+    <item >15</item>
+    <item >17</item>
+    <item >20</item>
+    <item >25</item>
+    <item >30</item>
+    <item >35</item>
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+    <item >105</item>
+    <item >110</item>
+    <item >120</item>
+    <item >130</item>
+    <item >140</item>
+    <item >150</item>
+     
+</string-array>
+
+<string-array name="diametr2">
+    <item >10</item>
+    <item >12</item>
+    <item >15</item>
+    <item >17</item>
+    <item >20</item>
+    <item >25</item>
+    <item >30</item>
+    <item >35</item>
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+    <item >105</item>
+    <item >110</item>
+    <item >120</item>
+    <item >130</item>
+    <item >140</item>
+        
+</string-array>
+
+<string-array name="diametr3">
+    <item >17</item>
+    <item >20</item>
+    <item >25</item>
+    <item >30</item>
+    <item >35</item>
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+         
+</string-array>
+
+<string-array name="diametr4">
+
+    <item >15</item>
+    <item >17</item>
+    <item >20</item>
+    <item >25</item>
+    <item >30</item>
+    <item >35</item>
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+    <item >105</item>
+    <item >110</item>
+    <item >120</item>
+    <item >130</item>
+    <item >140</item>
+    <item >150</item>
+        
+</string-array>
+
+<string-array name="diametr5">
+
+    <item >15</item>
+    <item >17</item>
+    <item >20</item>
+    <item >25</item>
+    <item >30</item>
+    <item >35</item>
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+    <item >105</item>
+    <item >110</item>
+    <item >120</item>
+    <item >130</item>
+       
+</string-array>
+
+<string-array name="diametr6">
+
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+    <item >105</item>
+    <item >110</item>
+
+</string-array>
+
+<string-array name="diametr7">
+
+    <item >25</item>
+    <item >30</item>
+    <item >35</item>
+    <item >40</item>
+    <item >45</item>
+    <item >50</item>
+    <item >55</item>
+    <item >60</item>
+    <item >65</item>
+    <item >70</item>
+    <item >75</item>
+    <item >80</item>
+    <item >85</item>
+    <item >90</item>
+    <item >95</item>
+    <item >100</item>
+    <item >105</item>
+    <item >110</item>
+    <item >120</item>
+    <item >130</item>
+    <item >140</item>
+    <item >150</item>
+    
+</string-array>
+
+<string-array name="freq">
+    <item >L (полоса низких частот)</item>
+    <item >M (полоса средних частот)</item>
+    <item >H (полоса высоких частот)</item>
+    <item >P (импульс вибрации)</item> 
+</string-array>
+
+<string-array name="razrad1">
+    <item >Ш, ШШ</item>
+    <item >Ш1, Ш11</item>
+    <item >Ш2, Ш22</item>
+    <item >Ш3, Ш33</item>
+    <item >Ш4, Ш44</item>
+    <item >Ш5, Ш55</item>
+    <item >Ш6, Ш66</item>
+    <item >Ш7, Ш77</item>
+    <item >Ш8, Ш88</item>
+    <item >Ш9, Ш99</item> 
+</string-array>
+
+<string-array name="razrad2">
+    <item >Ш, ШШ</item>
+    <item >Ш1, Ш11</item>
+    <item >Ш2, Ш22</item>
+    <item >Ш3, Ш33</item>
+    <item >Ш4, Ш44</item>
+
+</string-array>
+
+<string-array name="razrad3">
+    
+    <item >Ш5, Ш55</item>
+    <item >Ш6, Ш66</item>
+    <item >Ш7, Ш77</item>
+    <item >Ш8, Ш88</item>
+    <item >Ш9, Ш99</item> 
+</string-array>
+
+<string name="description">О компании НПП «ТИК»</string>
+
+<string name="about_title">О программе</string>
+
+<string name="about_text">Нормы вибрации подшипников качения\n\nРД ВНИПП.038&#8211;08\n\nВерсия: 1.1\n</string>
+  
+<string name="about_company_title">НПП «ТИК»</string>
+
+<string name="company">
+    
+    <b>ООО НПП «ТИК»</b>\n\n
+    
+    Научно-производственное предприятие «ТИК» является компанией специализирующейся на разработке и производстве приборов и систем контроля 
+    и диагностики промышленного оборудования по параметрам вибрации и температуры.\n\n
+    
+    <b>Основные производственные направления:</b>\n\n
+
+•	стационарные системы контроля вибрации насосно-компрессорного оборудования;\n
+•	системы вибродиагностики промышленного оборудования;\n
+•	стенды вибродиагностики подшипников качения;\n
+•	системы регистрации момента прохождения внутритрубных снарядов;\n
+•	датчики вибрации и температуры, контроллеры.\n\n
+
+	НПП «ТИК» предоставляет своим Заказчикам полное техническое и метрологическое сопровождение поставляемой продукции в течение всего периода эксплуатации.\n\n 
+	
+	<b>Контактная информация:</b>\n\n  
+	
+    Юридический и почтовый адрес:\n\n 
+    
+    614067, г. Пермь, ул. Марии Загуменных 14 «А»\n\n 
+
+	Тел.: +7(342) 213-55-01\n\n 
+
+	Факс: +7(342) 213-55-51\n\n  
+
+	Сайт: http://tik.perm.ru, http://тик.рф\n\n  
+
+	Электронная почта: tik@perm.ru\n 
+    
+</string>
+
+</resources>
